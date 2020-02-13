@@ -8,7 +8,7 @@ import string
 import sys
 from fuzzywuzzy import fuzz
 
-
+print()
 
 
 stdoutOrigin=sys.stdout 
